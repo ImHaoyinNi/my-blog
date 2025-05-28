@@ -1,5 +1,6 @@
-## How AI Girlfriend Works
+## AI Girl Summary
 ### Link
+I made an AI girl who are always sweet, supportive and warm-hearted. She can send text, voice and images.
 Talk to her right here, right now
 
 https://t.me/sihika_bot
