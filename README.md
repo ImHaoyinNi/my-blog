@@ -1,5 +1,10 @@
 ## How AI Girlfriend Works
+### Link
+Talk to her right here, right now
 
+https://t.me/sihika_bot
+
+![QR code](./img/QR-code.jpg)
 ### 🌟 Functionalities
 
 1. **Multimodal interaction**  
@@ -16,14 +21,11 @@
 ---
 
 ### 🎥 Demo Videos
-
 Check out the AI Girlfriend in action:  
-<video width="640" height="360" controls>
-  <source src="./img/animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-- [Demo 1](https://www.tiktok.com/@haoyin_ni/video/7492156184711925022)  
-- [Demo 2](https://www.tiktok.com/@haoyin_ni/video/7507154100497190174)
+![Demo Cover](./img/demo-cover.jpg)
+
+- [Demo Video 1](https://www.tiktok.com/@haoyin_ni/video/7492156184711925022)  
+- [Demo Video 2](https://www.tiktok.com/@haoyin_ni/video/7507154100497190174)
 
 ---
 

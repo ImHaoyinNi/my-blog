@@ -18,10 +18,7 @@
 ### 🎥 Demo Videos
 
 Check out the AI Girlfriend in action:  
-<video width="640" height="360" controls>
-  <source src="./img/animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Cover](./img/demo-cover.jpg)
 - [Demo 1](https://www.tiktok.com/@haoyin_ni/video/7492156184711925022)  
 - [Demo 2](https://www.tiktok.com/@haoyin_ni/video/7507154100497190174)
 
