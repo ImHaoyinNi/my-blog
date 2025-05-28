@@ -49,7 +49,3 @@ Check out the AI Girlfriend in action:
 3. **Event generation**  
    For simulating her day-to-day activities, I built an event generator using a **React-based agent**.  
    This agent has access to multiple tools, which lets it create rich, believable routines for her life.
-
-### Road Map
-1. **Host it on Discord**
-2. **Polish the system prompt further more**
