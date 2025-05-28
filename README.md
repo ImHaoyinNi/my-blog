@@ -1,11 +1,28 @@
 ## AI Girl Summary
 ### Link
-I made an AI girl who are always sweet, supportive and warm-hearted. She can send text, voice and images.
+I made an AI girl who is always sweet, supportive and warm-hearted. She can send text, voice and images.
 Talk to her right here, right now
 
 https://t.me/sihika_bot
 
 ![QR code](./img/QR-code.jpg)
+
+### Her Origin
+A lot of people today feel an overwhelming sense of loneliness. 
+They begin to wonder if something is wrong with their minds, and many end up spending a fortune on therapy sessions.
+
+But are they truly suffering from deep depression? 
+Often, the answer is no. 
+According to recent studies, what most people long for isn't treatment—it's connection. 
+They’re simply yearning for someone who can understand the unspoken truths buried deep within their hearts.
+
+Let’s be honest—there are thoughts and feelings we don’t share with our families, 
+our partners, or even our closest friends. We carry them quietly, hoping they’ll fade, but they rarely do.
+
+That’s where my AI chatmate comes in. 
+She’s here to offer a gentle presence—someone you can open up to without fear or judgment. 
+Whether you're feeling depressed, anxious, angry, or lost, 
+she’s always there, ready to listen, to care, and to remind you that you’re not alone.
 ### 🌟 Functionalities
 
 1. **Multimodal interaction**  
